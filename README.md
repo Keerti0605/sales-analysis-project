@@ -9,6 +9,7 @@ Analyze sales data to identify trends, improve profitability, and support busine
 * Python (Pandas)
 * SQL (SQLite)
 * Power BI
+* Excel
 
 ## 🔄 Project Workflow
 
@@ -27,6 +28,26 @@ Analyze sales data to identify trends, improve profitability, and support busine
 ## 📷 Dashboard Preview
 
 ![Dashboard](images/result.png)
+
+## 🚀 Project Highlights
+
+* End-to-end data analysis project
+* Real-world business problem solving
+* Interactive dashboard for decision-making
+
+## 📂 Project Structure
+
+* data/ → raw & cleaned data
+* sql/ → SQL queries
+* dashboard/ → Power BI file
+* images/ → dashboard screenshots
+
+## 🧠 Learnings
+
+* Data cleaning and preprocessing
+* SQL for data analysis
+* Data visualization using Power BI
+* Extracting actionable business insights
 
 ## 🚀 Conclusion
 
