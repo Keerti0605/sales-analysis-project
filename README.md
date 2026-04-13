@@ -26,7 +26,7 @@ Analyze sales data to identify trends, improve profitability, and support busine
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/result.png)
 
 ## 🚀 Conclusion
 
